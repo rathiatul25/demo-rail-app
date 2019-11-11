@@ -1,0 +1,2 @@
+class MyApiController < ApplicationController
+end

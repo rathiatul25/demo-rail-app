@@ -1,0 +1,2 @@
+class XyzController < ApplicationController
+end

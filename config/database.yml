@@ -1,8 +1,18 @@
-development:
+# development:
+#  adapter: postgresql
+#  encoding: unicode
+#  database: d69ds74he6tckv
+#  host: ec2-174-129-253-169.compute-1.amazonaws.com
+#  pool: 5
+#  username: yuizikonwxslku
+#  password: 169ce09e06dada21631feee032de465dfa666f9a31036ddc404f7c7742aa417c
+
+
+production:
  adapter: postgresql
  encoding: unicode
  database: d69ds74he6tckv
- host: ec2-174-129-253-169.compute-1.amazonaws.com
+ host: localhost
  pool: 5
- username: yuizikonwxslku
- password: 169ce09e06dada21631feee032de465dfa666f9a31036ddc404f7c7742aa417c
+ username: postgres
+ password: postgres

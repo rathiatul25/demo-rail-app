@@ -1,2 +1,0 @@
-class XyzApiController < ApplicationController
-end

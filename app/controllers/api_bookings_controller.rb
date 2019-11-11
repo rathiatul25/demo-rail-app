@@ -1,2 +1,0 @@
-class ApiBookingsController < ApplicationController
-end

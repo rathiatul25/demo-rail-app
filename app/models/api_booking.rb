@@ -1,2 +1,0 @@
-class ApiBooking < ApplicationRecord
-end

@@ -1,5 +1,4 @@
 Rails.application.routes.draw do
-  resources :api_bookings
   devise_for :users
   resources :books
   resources :authors

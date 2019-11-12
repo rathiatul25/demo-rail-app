@@ -100,6 +100,6 @@ test:
 #
 production:
   <<: *default
-  database: d69ds74he6tckv
-  username: yuizikonwxslku
-  password: 169ce09e06dada21631feee032de465dfa666f9a31036ddc404f7c7742aa417c
+  database: dbi66tv9pf482
+  username: hzzuuxxrxmvzfx
+  password: 2517d3c37b9257cd0fd2fafc72c89af674d269b6b55b7a463f5730c4bab613af
